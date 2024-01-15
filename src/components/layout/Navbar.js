@@ -1,4 +1,4 @@
-import { Element } from '../../core/Element.js'
+import { Element } from '@/core/Element.js'
 
 export class Navbar extends Element{
   navElements = [
